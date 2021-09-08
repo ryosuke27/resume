@@ -2,9 +2,9 @@
 ## 【技術経歴】
 
 ### -スキル概要-
-**サーバーサイド**：PHP 1年3ヶ月  
+**サーバーサイド**：PHP 1年8ヶ月  
          FW:Laravel,CodeIgniter  
-**フロントエンド**：JavaScript  
+**フロントエンド**：JavaScript 1年8ヶ月
          FW:jQuery,Vue.js  
 **その他**：GraphQL  
 **インフラ**：Docker 1年  
