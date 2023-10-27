@@ -4,13 +4,13 @@
 ### -スキル概要-
 **サーバーサイド**：PHP 2年7ヶ月  
          FW:Laravel,CodeIgniter
-**フロントエンド**：JavaScript 3年8ヶ月
+**フロントエンド**：JavaScript 3年9ヶ月
          FW:Vue.js,Nuxt.js,TypeScript
 **その他**：GraphQL  
 **インフラ**：Docker 2年  
 
 ### 【経験業務】 (時系列で上が最新)
-- 航空系プラットフォームのUI開発 (2022/9-2023/8)
+- 航空系プラットフォームのUI開発 (2022/9-2023/9)
   - Vue3 compotionAPIを利用したAPI連携の実装
   - SPAでの決済機能の実装
   - jwtトークンを利用した認証機能の実装
