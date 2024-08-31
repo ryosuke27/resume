@@ -2,14 +2,25 @@
 ## 【技術経歴】
 
 ### -スキル概要-
-**サーバーサイド**：PHP 2年7ヶ月  
+**サーバーサイド**：
+         PHP 2年7ヶ月  
          FW:Laravel,CodeIgniter
-**フロントエンド**：JavaScript 3年9ヶ月
-         FW:Vue.js,Nuxt.js,TypeScript
+**フロントエンド**：
+         JavaScript 4年5ヶ月
+         TypeScript 1年2ヶ月
+         FW:React.js,Next.js,Vue.js,Nuxt.js
 **その他**：GraphQL  
 **インフラ**：Docker 2年  
 
 ### 【経験業務】 (時系列で上が最新)
+- メーカー共同キャンペーンシステム開発（2024/1-現在）
+  - UI設計
+  - UI設計フォーマットの作成
+  - 技術選定
+  - フロントエンドアーキテクチャの検討
+  - タスク分担
+  - 実装
+  - コードレビュー
 - 航空系プラットフォームのUI開発 (2022/9-2023/9)
   - Vue3 compotionAPIを利用したAPI連携の実装
   - SPAでの決済機能の実装
