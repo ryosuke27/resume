@@ -15,7 +15,7 @@
 ### 【経験業務】 (時系列で上が最新)
 - メーカー共同キャンペーンシステム開発（2024/1-現在）
   - 使用技術
-  　- React/TypeScript/Zustand/GCP 
+    - React.js/TypeScript/Zustand/GCP
   - UI設計
   - UI設計フォーマットの作成
   - 技術選定
