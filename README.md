@@ -6,8 +6,8 @@
          PHP 2年7ヶ月  
          FW:Laravel,CodeIgniter
 **フロントエンド**：
-         JavaScript 4年5ヶ月
-         TypeScript 1年2ヶ月
+         JavaScript 4年9ヶ月
+         TypeScript 1年4ヶ月
          FW:React.js,Next.js,Vue.js,Nuxt.js
 **その他**：GraphQL  
 **インフラ**：Docker 2年  
