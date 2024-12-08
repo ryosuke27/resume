@@ -6,13 +6,20 @@
          PHP 2年7ヶ月  
          FW:Laravel,CodeIgniter
 **フロントエンド**：
-         JavaScript 4年9ヶ月
-         TypeScript 1年4ヶ月
+         JavaScript 5年0ヶ月
+         TypeScript 1年6ヶ月
          FW:React.js,Next.js,Vue.js,Nuxt.js
 **その他**：GraphQL  
 **インフラ**：Docker 2年  
 
 ### 【経験業務】 (時系列で上が最新)
+- 飲食店向けモバイルオーダーシステム改修（2024/9-現在）
+　- 使用技術
+  　- React.js/TypeScript/React Redux/React Saga/GCP
+  - UI設計、詳細設計
+  - 実装
+  - コードレビュー
+  - タスク分担
 - メーカー共同キャンペーンシステム開発（2024/1-現在）
   - 使用技術
     - React.js/TypeScript/Zustand/GCP
