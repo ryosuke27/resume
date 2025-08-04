@@ -31,7 +31,7 @@
 ### 【経験業務】 (時系列で上が最新)
 - 飲食店向けモバイルオーダーシステム改修（2024/9-現在）
   - 使用技術
-    - React.js/TypeScript/React Redux/React Saga/GCP
+    - Next.js/React.js/TypeScript/React Redux/React Saga/GCP
   - プロジェクトリード
   - UI設計、詳細設計、データ設計
   - 実装
